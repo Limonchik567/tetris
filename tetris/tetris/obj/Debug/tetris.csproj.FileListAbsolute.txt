@@ -1,0 +1,10 @@
+G:\Коды\tetris\tetris\bin\Debug\tetris.exe.config
+G:\Коды\tetris\tetris\bin\Debug\tetris.exe
+G:\Коды\tetris\tetris\bin\Debug\tetris.pdb
+G:\Коды\tetris\tetris\obj\Debug\tetris.csproj.AssemblyReference.cache
+G:\Коды\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+G:\Коды\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+G:\Коды\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+G:\Коды\tetris\tetris\obj\Debug\tetris.exe
+G:\Коды\tetris\tetris\obj\Debug\tetris.pdb
+G:\Коды\tetris\tetris\obj\Debug\tetris.Form1.resources
